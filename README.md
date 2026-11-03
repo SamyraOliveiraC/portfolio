@@ -3,4 +3,4 @@ Ooi, criei esse portifolio para me conhecerem um pouco sobre mim, onde junto meu
 
 Utilizei HTML, CSS e Js.
 
-Segue link GitPages: https://samyraoliveirac.github.io/Portfolio/
+Segue link GitPages: https://samyraoliveirac.github.io/portfolio/
